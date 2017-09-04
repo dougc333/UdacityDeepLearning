@@ -1,0 +1,4 @@
+image_classification/*.p
+image_classificaiton/*.gz
+image_classificaiton/cifar-10-batches-py/*
+image_classificaiton/image_classification.data-00000-of-00001
